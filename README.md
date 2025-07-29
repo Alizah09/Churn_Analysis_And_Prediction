@@ -5,6 +5,17 @@ This project aims to analyze and predict customer churn using SQL for data handl
 
 ---
 
+## 📊 Power BI Dashboard (Screenshots)
+
+### 📍 Summary Page
+![Summary Dashboard](SS_Summary.png)
+
+### 📍 Prediction Page
+![Prediction Dashboard](SS_Churn_Prediction.png)
+
+
+---
+
 ## 🧰 Tools & Technologies Used
 
 | Tool / Language         | Purpose                                      |
